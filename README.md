@@ -1,11 +1,10 @@
 # Hi there 👋 ... You can call me Caro
+-----
 
-- 🌱 I’m currently learning Python & Data Science
-- 📫 How to reach me: [https://twitter.com/carotse31](https://twitter.com/carotse31)
+- 🌱 **I’m currently learning Python & Data Science**
+- 📫 **How to reach me:**   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/carotse31)
 
-![GitHub followers](https://img.shields.io/github/followers/carolinaacosta31?label=Follow&style=social) 
-
-![GitHub watchers](https://img.shields.io/github/watchers/carolinaacosta31/carolinaacosta31?style=social)
+![GitHub followers](https://img.shields.io/github/followers/carolinaacosta31?label=Follow&style=social)![GitHub watchers](https://img.shields.io/github/watchers/carolinaacosta31/carolinaacosta31?style=social)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinaacosta31&show_icons=true)  
 

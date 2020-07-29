@@ -7,7 +7,7 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/carolinaacosta31/carolinaacosta31?style=social)
 
-[https://github-readme-stats.vercel.app/api?usernamecarolinaacosta31&show_icons=true](https://github-readme-stats.vercel.app/api?username=carolinaacosta31&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinaacosta31&show_icons=true)  
 
 <!--
 **carolinaacosta31/carolinaacosta31** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
